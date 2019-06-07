@@ -1,0 +1,2 @@
+class Daylight < ApplicationRecord
+end
