@@ -25,3 +25,5 @@ touch spec/services/sun_service_spec.rb
 ```
 
 I also changed the `spec_helper` to `rails_helper` at the top of my test file so it could load the `StudentService` class.
+
+### Add `httparty` to gemfile:
