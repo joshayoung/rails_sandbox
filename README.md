@@ -33,3 +33,6 @@ I also changed the `spec_helper` to `rails_helper` at the top of my test file so
 
 ### Add model to use ActiveModel:
 `rails generate model Darkness`
+
+### Add model for Temperature and then delete the migration:
+`rails generate model temperature`
