@@ -1,5 +1,8 @@
 # README
 
+## To Do:
+* Create controller model abstraction
+
 ## Commands Used to Create and Modify Repo:
 * `rails new -T rails_sandbox`
 
