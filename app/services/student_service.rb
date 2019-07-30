@@ -1,4 +1,2 @@
 class StudentService
-
-  def 
 end
